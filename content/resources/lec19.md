@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Basics of Wireless Communication
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-976-high-speed-communication-circuits-and-systems-spring-2003/a85dc5f9405bc5234b136b9333edb21d_lec19.pdf
+file: /media/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/a85dc5f9405bc5234b136b9333edb21d_lec19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec19.pdf
 uid: a85dc5f9-405b-c523-4b13-6b9333edb21d

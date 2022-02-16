@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Voltage Controlled Oscillators
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-976-high-speed-communication-circuits-and-systems-spring-2003/e9c43f007819db2465a127d315013a86_hw5.pdf
+file: /media/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/e9c43f007819db2465a127d315013a86_hw5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw5.pdf
 uid: e9c43f00-7819-db24-65a1-27d315013a86
