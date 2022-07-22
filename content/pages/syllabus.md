@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 30b4e98f-5e4c-215d-390d-44be5ca10cd5
 ---
