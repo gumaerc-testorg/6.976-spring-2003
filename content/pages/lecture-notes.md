@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ Files
 Overview of Course
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7MB]({{< baseurl >}}/resources/lec1))
+({{% resource_link 98d13656-9823-f918-e795-584f23816cb8 "PDF - 2.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Overview of Course
 Transmission Line Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link 71a56a49-78bc-9fb3-a200-e612af5fee91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Transmission Line Theory
 S-parameters and Impedance Transformers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link 00821251-ca1f-3e3f-7988-c42a61e991c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ S-parameters and Impedance Transformers
 Generalized Reflection Coefficient, Smith Chart, Passives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link 144e9086-d3a0-0235-262a-cc8772a70c8b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Generalized Reflection Coefficient, Smith Chart, Passives
 High Speed Broadband Amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link bd23fbc3-aa12-e08f-55e2-81de1ae4332a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ High Speed Broadband Amplifiers
 Enhancement of Broadband Amplifiers, Narrowband Amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link 8885340f-0efb-a278-4f45-b83fa4ac4518 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Enhancement of Broadband Amplifiers, Narrowband Amplifiers
 Noise Modeling in Amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link d24bf4b6-90b7-9170-cb92-a1ed29e5cbf9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Noise Modeling in Amplifiers
 Noise Figure, Impact of Amplifier Nonlinearities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link a3bae935-8da0-2860-76b4-2f98b9dafc20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Noise Figure, Impact of Amplifier Nonlinearities
 Low Noise Amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link 5d2ac908-a7f1-8ccc-0fec-90746cdb76ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +142,7 @@ Low Noise Amplifiers
 Mixers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link b656c954-e478-f7a2-bdf5-68f85a25ba2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ Mixers
 Voltage Controlled Oscillators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link 30e5b12c-9e7b-96e7-45ba-0fed7f639c7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +166,7 @@ Voltage Controlled Oscillators
 Noise in Voltage Controlled Oscillators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/lec12))
+({{% resource_link ceb3d539-691d-5393-a29a-f71ae98afb62 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +178,7 @@ Noise in Voltage Controlled Oscillators
 High Speed Digital Logic
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13))
+({{% resource_link 0d4bee62-8af1-84eb-33a8-6cb7cafbb697 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +190,7 @@ High Speed Digital Logic
 High Speed Frequency Dividers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link b9123842-774d-bab4-a292-dbc4475bdf2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +202,7 @@ High Speed Frequency Dividers
 Integer-N Frequency Synthesizers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link d8b8c90c-a987-7402-c180-5ee4b0c5aa96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +214,7 @@ Integer-N Frequency Synthesizers
 Noise in Integer-N Frequency Synthesizers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link 5494c117-f899-b0c6-6fd0-154492c2d325 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +226,7 @@ Noise in Integer-N Frequency Synthesizers
 Advanced Frequency Synthesizers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link 31905e8f-bcb1-6ef3-d3bf-ca417fb0a818 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +238,7 @@ Advanced Frequency Synthesizers
 Design and Simulation of Synthesizers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/lec18))
+({{% resource_link c3e121ce-29f2-f2d4-3879-a17a548b538f "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +250,7 @@ Design and Simulation of Synthesizers
 Basics of Wireless Communication
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19))
+({{% resource_link a85dc5f9-405b-c523-4b13-6b9333edb21d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +262,7 @@ Basics of Wireless Communication
 Performance Measures of Wireless Communication
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec20))
+({{% resource_link f1cba77d-2fd8-0b4b-79d2-bd3461c41ebc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +274,7 @@ Performance Measures of Wireless Communication
 MSK Modulation and Clock and Data Recovery Circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec21))
+({{% resource_link b396ec97-fe1f-c0eb-7e39-e88bf86c2979 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +286,7 @@ MSK Modulation and Clock and Data Recovery Circuits
 **Guest Lecture by Gu-Yeon Wei, Harvard University:** Low-Power High-Speed Links
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/guest1))
+({{% resource_link e96c618e-4ffb-82e6-91bb-7e97b604593e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +310,7 @@ MSK Modulation and Clock and Data Recovery Circuits
 **Guest Lecture by Analog Devices:** RF Power Amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/guest3))
+({{% resource_link 74927837-820d-5a11-a244-3b5b86ce0f50 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +334,7 @@ MSK Modulation and Clock and Data Recovery Circuits
 **Guest Lecture by Richard Schreier, Analog Devices:** Lowpass and Bandpass Delta-Sigma Modulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/guest5))
+({{% resource_link db6aed78-0e7f-147f-e1b5-89bfeed05b71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
