@@ -9,7 +9,7 @@ uid: 3b1481bd-3c18-5b7a-b498-deb9369206aa
 ---
 
 Custom software used for the assignments is freely available at  
-[http://www-mtl.mit.edu/researchgroups/perrottgroup/tools.html](http://www-mtl.mit.edu/researchgroups/perrottgroup/tools.html).
+{{% resource_link "7e8b8767-84bb-43af-9bc7-4aa3d23512ab" "http://www-mtl.mit.edu/researchgroups/perrottgroup/tools.html" %}}.
 
 *   Homework Assignment 1 ({{% resource_link f6430f2c-14b3-36d9-24c3-b218d909a56d "PDF" %}})
 *   Homework Assignment 2 ({{% resource_link ce5b2d6c-8de2-49f1-d412-0b981c293dcf "PDF" %}})
