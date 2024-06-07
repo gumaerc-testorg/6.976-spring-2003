@@ -2,6 +2,7 @@
 content_type: resource
 description: Low-Power High-Speed Links
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/e96c618e4ffb82e691bb7e97b604593e_guest1.pdf
+file_size: 633706
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

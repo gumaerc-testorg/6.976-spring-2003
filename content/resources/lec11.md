@@ -2,6 +2,7 @@
 content_type: resource
 description: Voltage Controlled Oscillators
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/30e5b12c9e7b96e745ba0fed7f639c7c_lec11.pdf
+file_size: 455747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

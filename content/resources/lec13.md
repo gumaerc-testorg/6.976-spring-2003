@@ -2,6 +2,7 @@
 content_type: resource
 description: High Speed Digital Circuits
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/0d4bee628af184eb33a86cb7cafbb697_lec13.pdf
+file_size: 449672
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
