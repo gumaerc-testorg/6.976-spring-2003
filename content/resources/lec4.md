@@ -2,6 +2,7 @@
 content_type: resource
 description: Generalized Reflection Coefficient, Smith Chart, Integrated Passive Components
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/144e9086d3a00235262acc8772a70c8b_lec4.pdf
+file_size: 423149
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

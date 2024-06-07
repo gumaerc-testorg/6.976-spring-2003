@@ -2,6 +2,7 @@
 content_type: resource
 description: Basics of Wireless Communication
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/a85dc5f9405bc5234b136b9333edb21d_lec19.pdf
+file_size: 1035881
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

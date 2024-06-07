@@ -2,6 +2,7 @@
 content_type: resource
 description: Integer-N Frequency Synthesizers
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/d8b8c90ca9877402c1805ee4b0c5aa96_lec15.pdf
+file_size: 701163
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

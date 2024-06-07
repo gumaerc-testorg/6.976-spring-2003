@@ -2,6 +2,7 @@
 content_type: resource
 description: High Speed, Broadband Amplifiers
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/bd23fbc3aa12e08f55e281de1ae4332a_lec5.pdf
+file_size: 420385
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

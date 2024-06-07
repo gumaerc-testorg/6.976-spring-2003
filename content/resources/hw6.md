@@ -2,6 +2,7 @@
 content_type: resource
 description: Phase-Locked Loop Circuits
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/57fed79da416746dab4876f4762b6df2_hw6.pdf
+file_size: 154369
 file_type: application/pdf
 learning_resource_types:
 - Assignments
