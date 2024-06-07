@@ -2,6 +2,7 @@
 content_type: resource
 description: Noise Modeling in Amplifiers
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/d24bf4b690b79170cb92a1ed29e5cbf9_lec7.pdf
+file_size: 575808
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

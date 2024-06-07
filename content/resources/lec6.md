@@ -2,6 +2,7 @@
 content_type: resource
 description: Enhancement Techniques for Broadband Amplifiers, Narrowband Amplifiers
 file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/8885340f0efba2784f45b83fa4ac4518_lec6.pdf
+file_size: 422460
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
