@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mid-Term Exam
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/98ce41d6546a9055e87cb32fe8be0753_quiz.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/98ce41d6546a9055e87cb32fe8be0753_quiz.pdf
 file_size: 239821
 file_type: application/pdf
 learning_resource_types:
