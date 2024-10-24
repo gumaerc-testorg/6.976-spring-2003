@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: S-Parameters, Transformers, ISI, and Eye Diagrams
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/f6430f2c14b336d924c3b218d909a56d_hw1.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/f6430f2c14b336d924c3b218d909a56d_hw1.pdf
 file_size: 114464
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Low Noise Amplifiers
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/5d2ac908a7f18ccc0fec90746cdb76ab_lec9.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/5d2ac908a7f18ccc0fec90746cdb76ab_lec9.pdf
 file_size: 584627
 file_type: application/pdf
 learning_resource_types:
