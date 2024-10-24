@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Narrowband LNA's and Mixers
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/c41a3be3c824c0735fe4e13a196441ba_hw4.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/c41a3be3c824c0735fe4e13a196441ba_hw4.pdf
 file_size: 222100
 file_type: application/pdf
 learning_resource_types:

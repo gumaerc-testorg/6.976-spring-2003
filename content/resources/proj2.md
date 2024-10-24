@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: GMSK Transceivers
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/359d0ff7de5ad5b6cd7418d272d11d78_proj2.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/359d0ff7de5ad5b6cd7418d272d11d78_proj2.pdf
 file_size: 1768634
 file_type: application/pdf
 learning_resource_types:
