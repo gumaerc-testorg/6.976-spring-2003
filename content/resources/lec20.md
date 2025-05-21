@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Performance Measures of Wireless Communication
-file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/f1cba77d2fd80b4b79d2bd3461c41ebc_lec20.pdf
+file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/f1cba77d2fd80b4b79d2bd3461c41ebc_lec20.pdf
 file_size: 505885
 file_type: application/pdf
 learning_resource_types:

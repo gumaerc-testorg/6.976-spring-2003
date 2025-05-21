@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: S-Parameters and Impedance Transformers
-file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/00821251ca1f3e3f7988c42a61e991c4_lec3.pdf
+file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/00821251ca1f3e3f7988c42a61e991c4_lec3.pdf
 file_size: 356202
 file_type: application/pdf
 learning_resource_types:

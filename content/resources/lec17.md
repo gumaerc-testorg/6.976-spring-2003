@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Advanced Frequency Synthesizers
-file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/31905e8fbcb16ef3d3bfca417fb0a818_lec17.pdf
+file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/31905e8fbcb16ef3d3bfca417fb0a818_lec17.pdf
 file_size: 713142
 file_type: application/pdf
 learning_resource_types:
