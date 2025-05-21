@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: High Speed Frequency Dividers
-file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/b9123842774dbab4a292dbc4475bdf2c_lec14.pdf
+file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/b9123842774dbab4a292dbc4475bdf2c_lec14.pdf
 file_size: 394537
 file_type: application/pdf
 learning_resource_types:

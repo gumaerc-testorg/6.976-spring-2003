@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mixers
-file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/b656c954e478f7a2bdf568f85a25ba2d_lec10.pdf
+file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/b656c954e478f7a2bdf568f85a25ba2d_lec10.pdf
 file_size: 494696
 file_type: application/pdf
 learning_resource_types:

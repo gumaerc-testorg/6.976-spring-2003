@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Noise in Integer-N Frequency Synthesizers
-file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/5494c117f899b0c66fd0154492c2d325_lec16.pdf
+file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/5494c117f899b0c66fd0154492c2d325_lec16.pdf
 file_size: 523342
 file_type: application/pdf
 learning_resource_types:
