@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lowpass and Bandpass Delta-Sigma Modulation
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/db6aed780e7f147fe1b589bfeed05b71_guest5.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/db6aed780e7f147fe1b589bfeed05b71_guest5.pdf
 file_size: 337788
 file_type: application/pdf
 learning_resource_types:
