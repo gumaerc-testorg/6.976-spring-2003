@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overview of Course
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/98d136569823f918e795584f23816cb8_lec1.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/98d136569823f918e795584f23816cb8_lec1.pdf
 file_size: 2854314
 file_type: application/pdf
 learning_resource_types:
