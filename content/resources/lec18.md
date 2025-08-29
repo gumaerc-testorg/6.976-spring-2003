@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design and Simulation of Frequency Synthesizers
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/c3e121ce29f2f2d43879a17a548b538f_lec18.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/c3e121ce29f2f2d43879a17a548b538f_lec18.pdf
 file_size: 1595692
 file_type: application/pdf
 learning_resource_types:

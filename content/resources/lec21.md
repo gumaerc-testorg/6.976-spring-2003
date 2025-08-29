@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MSK Modulation and Clock and Data Recovery Circuits
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/b396ec97fe1fc0eb7e39e88bf86c2979_lec21.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/b396ec97fe1fc0eb7e39e88bf86c2979_lec21.pdf
 file_size: 521652
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Noise in Voltage Controlled Oscillators
-file: /courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/ceb3d539691d5393a29af71ae98afb62_lec12.pdf
+file: /ol-ocw-studio-app/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/ceb3d539691d5393a29af71ae98afb62_lec12.pdf
 file_size: 1252698
 file_type: application/pdf
 learning_resource_types:
